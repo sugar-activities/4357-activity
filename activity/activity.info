@@ -1,0 +1,7 @@
+[Activity]
+name = JAMesene
+bundle_id = org.laptop.JAMesene
+exec = sugar-activity JAMesene.JAMesene
+icon = JAMesene-icon
+activity_version = 2
+show_launcher = yes

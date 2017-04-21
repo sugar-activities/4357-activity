@@ -1,0 +1,7 @@
+[Activity]
+name = JAMesene
+service_name = JAMesene.CeibalJAM.org
+class = JAMesene.JAMesene
+icon = JAMesene-icon
+activity_version = 1
+show_launcher = yes
